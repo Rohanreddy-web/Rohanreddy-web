@@ -1,5 +1,5 @@
 <h1> Hi 👋, I'm Rohan Reddy</h1>
-<img src="https://media1.tenor.com/m/o6vsBd5Ywa8AAAAC/zoro-zoro-one-piece.gif" alt="Zoro One Piece" style="width: 50%; height: auto;" />
+<!-- <img src="https://media1.tenor.com/m/o6vsBd5Ywa8AAAAC/zoro-zoro-one-piece.gif" alt="Zoro One Piece" style="width: 50%; height: auto;" /> -->
 
 I’m a student developer passionate about learning and creating impactful tech solutions. I'm currently learning **MERN Stack** and continuously exploring new technologies in the world of programming.
 
