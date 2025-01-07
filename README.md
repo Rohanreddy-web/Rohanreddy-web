@@ -1,48 +1,60 @@
-<h1> Hi 👋, I'm Rohan Reddy</h1>
-<!-- <img src="https://media1.tenor.com/m/o6vsBd5Ywa8AAAAC/zoro-zoro-one-piece.gif" alt="Zoro One Piece" style="width: 50%; height: auto;" /> -->
+# 👋 Hi, I'm **Rohan Reddy**
 
-I’m a student developer passionate about learning and creating impactful tech solutions. I'm currently learning **MERN Stack** and continuously exploring new technologies in the world of programming.
-
----
-
-- 🌱 I’m currently learning **MERN Stack** (MongoDB, Express.js, React, Node.js).
-- 📫 Reach me at: [smecrohanreddy5p6@gmail.com](mailto:smecrohanreddy5p6@gmail.com)
+I’m a **student developer** passionate about creating impactful tech solutions and exploring the ever-evolving world of programming. Currently diving deep into the **MERN Stack**, I’m committed to honing my skills and continuously learning new technologies.
 
 ---
 
-## Connect with me:
+## 🌱 **What I'm Learning**
+- **MERN Stack**: MongoDB, Express.js, React, Node.js
+- Exploring **new technologies** to solve real-world problems effectively.
+
+---
+
+## 📫 **Get in Touch**
+- **Email**: [smecrohanreddy5p6@gmail.com](mailto:smecrohanreddy5p6@gmail.com)
+
+---
+
+## 🌐 **Connect with Me**
 
 <p align="left">
-  <a href="https://twitter.com/codewebhub_106" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewebhub_106" height="30" width="40" />
+  <a href="https://twitter.com/codewebhub_106" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
 </p>
 
 ---
 
-## Languages and Tools:
+## 💻 **Languages & Tools**
 
-<p align="left" style="padding-left: 50%;">
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 15px;" />
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 15px;" />
-  </a>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noref
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+</p>
+
+---
 
 <!---
 Rohanreddy-web/Rohanreddy-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
