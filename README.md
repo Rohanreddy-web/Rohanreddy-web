@@ -35,9 +35,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+#### Operating Systems  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
 ---
 
 ### 🤝 Connect With Me
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh5cjI2a2l3NGExY2F0ZGtlcDlnMW5nMnd0aG4zM3QxaHBqeG53cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5yBQraVyL7N28/giphy.gif" alt="Email">
 
 <div align="center">
   <a href="mailto:smecrohanreddy5p6@gmail.com" target="_blank">
