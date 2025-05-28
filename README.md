@@ -39,7 +39,7 @@
 #### Operating Systems  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
- <img src="https://media.tenor.com/O8gy1gagVDoAAAAi/one-piece-pixel.gif"  alt="Zoro" style="float: right;" width="300" height="250"/>
+
 ### 🤝 Connect With Me
 
 <div align="center">
@@ -54,5 +54,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+ <img src="https://media.tenor.com/O8gy1gagVDoAAAAi/one-piece-pixel.gif"  alt="Zoro" style="float: right;" width="300" height="250"/>
+  
 </div>
