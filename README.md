@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love solving coding challenges in my free time
 
 ---
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1Z3R1OXIzNmVna2V6cjA5Z2JjYTRrZW1tM2FtdGc3ZHo0anRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xnXzqTZDPCKXOTlsa6/giphy.gif" style="width: 200px; height: auto;">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 1000px; height: auto;">
 
 ### 🛠 Tech Stack
 
