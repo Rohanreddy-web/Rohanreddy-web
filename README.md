@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love solving coding challenges in my free time
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 1000px; height: auto;">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 1000px; height: auto;"/>
 
 ### 🛠 Tech Stack
 
@@ -38,11 +38,8 @@
 
 #### Operating Systems  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
 ---
-
+ <img src="https://media.tenor.com/O8gy1gagVDoAAAAi/one-piece-pixel.gif"  alt="Zoro" style="float: right;" width="300" height="250"/>
 ### 🤝 Connect With Me
 
 <div align="center">
