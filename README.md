@@ -53,7 +53,7 @@
 
 ---
 
-<div align="center">
+<!--<div align="center">
  <img src="https://media.tenor.com/O8gy1gagVDoAAAAi/one-piece-pixel.gif"  alt="Zoro" style="float: right;" width="300" height="250"/>
   
-</div>
+</div>-->
